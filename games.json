@@ -1,1 +1,11 @@
-
+{
+  "games": [
+    {
+      "id": "snake",
+      "title": "Snake",
+      "description": "Classic snake game. Eat, grow, don't die.",
+      "thumbnail": "https://i.imgur.com/yourimage.png",
+      "download": "https://yoursite.com/games/snake.zip"
+    }
+  ]
+}
