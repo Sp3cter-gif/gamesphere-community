@@ -9,3 +9,111 @@
     }
   ]
 }
+
+{
+  "games": [
+    {
+      "id": "breakout",
+      "title": "Break Out",
+      "description": "Break the bricks",
+      "thumbnail": "https://imgur.com/NSmolB8.jpg",
+      "download": "https://github.com/Sp3cter-gif/gamesphere-community/raw/main/games/breakout.zip"
+    }
+  ]
+}
+
+{
+  "games": [
+    {
+      "id": "cardodge",
+      "title": "Car Dodge",
+      "description": "Dodge cars, get coins.",
+      "thumbnail": "https://imgur.com/NSmolB8.jpg",
+      "download": "https://github.com/Sp3cter-gif/gamesphere-community/raw/main/games/cardodge.zip"
+    }
+  ]
+}
+
+{
+  "games": [
+    {
+      "id": "dino",
+      "title": "Dino",
+      "description": "Classic Dinosaur Game",
+      "thumbnail": "https://imgur.com/NSmolB8.jpg",
+      "download": "https://github.com/Sp3cter-gif/gamesphere-community/raw/main/games/dino.zip"
+    }
+  ]
+}
+
+{
+  "games": [
+    {
+      "id": "flappy",
+      "title": "Flappy Bird",
+      "description": "Classic Flappy Bird",
+      "thumbnail": "https://imgur.com/NSmolB8.jpg",
+      "download": "https://github.com/Sp3cter-gif/gamesphere-community/raw/main/games/flappy.zip"
+    }
+  ]
+}
+
+{
+  "games": [
+    {
+      "id": "pong",
+      "title": "Pong",
+      "description": "Pong. Play against a friend or ai.",
+      "thumbnail": "https://imgur.com/NSmolB8.jpg",
+      "download": "https://github.com/Sp3cter-gif/gamesphere-community/raw/main/games/pong.zip"
+    }
+  ]
+}
+
+{
+  "games": [
+    {
+      "id": "sniper",
+      "title": "Rooftop Sniper",
+      "description": "Shoot bad guys.",
+      "thumbnail": "https://imgur.com/NSmolB8.jpg",
+      "download": "https://github.com/Sp3cter-gif/gamesphere-community/raw/main/games/sniper.zip"
+    }
+  ]
+}
+
+{
+  "games": [
+    {
+      "id": "spaceinvaders",
+      "title": "Space Invaders",
+      "description": "Defend against aliens.",
+      "thumbnail": "https://imgur.com/NSmolB8.jpg",
+      "download": "https://github.com/Sp3cter-gif/gamesphere-community/raw/main/games/spaceinvaders.zip"
+    }
+  ]
+}
+
+{
+  "games": [
+    {
+      "id": "tetris",
+      "title": "Tetris",
+      "description": "Classic Tetris game.",
+      "thumbnail": "https://imgur.com/NSmolB8.jpg",
+      "download": "https://github.com/Sp3cter-gif/gamesphere-community/raw/main/games/tetris.zip"
+    }
+  ]
+}
+
+{
+  "games": [
+    {
+      "id": "whackamole",
+      "title": "Whack a Mole",
+      "description": "Whack the mole.",
+      "thumbnail": "https://imgur.com/NSmolB8.jpg",
+      "download": "https://github.com/Sp3cter-gif/gamesphere-community/raw/main/games/whackamole.zip"
+    }
+  ]
+}
